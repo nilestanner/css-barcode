@@ -1,0 +1,22 @@
+{
+  "name": "css-barcode",
+  "version": "1.0.0",
+  "description": "Easily convert number strings to barcodes using only css!",
+  "scripts": {
+    "build":"sass main.scss dist/barcode.min.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilestanner/css-barcode.git"
+  },
+  "keywords": [
+    "css",
+    "barcode"
+  ],
+  "author": "Niles Tanner <niles.tanner@gmail.com> (https://www.nilestanner.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilestanner/css-barcode/issues"
+  },
+  "homepage": "https://github.com/nilestanner/css-barcode#readme"
+}
